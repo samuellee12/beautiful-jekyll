@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Mechanical engineer interested in fluid-structure interactions with aeronautical & naval applications.
 ---
-
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Tinkering with my toys as a child led me to work on hands on projects as a high schooler, eventually leading me to completing my undergraduate studies in Mechanical Engineering at The Cooper Union in NYC. Through coursework and summer experiences, I have gained much interest in the field of aerospace engineering, especially in simulation and modeling. I spent two years working on propulsion components (pumps and other miscellaneous components) at Newport News Shipbuilding before starting a PhD at University of Maryland, College Park.
